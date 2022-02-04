@@ -1,5 +1,14 @@
-*{
+html{
+    display: table;
+    margin: auto;
+    text-align:center
+}
+
+body{
     font-family:Tahoma;
+    background-color: black;
+    color:white;
+    align-items: center;
 }
 
 #signature{
